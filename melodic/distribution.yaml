@@ -4,4 +4,6 @@ robotnik_msgs:
 rcomponent:
   ubuntu: [ros-melodic-rcomponent]
 
+robotnik_navigation_msgs:
+  ubuntu: [ros-melodic-robotnik-navigation-msgs]
  
