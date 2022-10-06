@@ -1,3 +1,7 @@
 robotnik_msgs:
   ubuntu: [ros-melodic-robotnik-msgs]
-    
+
+rcomponent:
+  ubuntu: [ros-melodic-rcomponent]
+
+ 
